@@ -30,5 +30,6 @@ end
     sentence = self.split(/[\.!?]/)
     sentence.size
     sentence.count
+    binding.pry
   end
   end
